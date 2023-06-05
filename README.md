@@ -1,5 +1,5 @@
 # Data_Communicatons_Laboratory
-- All the laboratories of Data Communications subject  in UIT 
+  All the laboratories of Data Communications subject  in UIT 
 - Class: NT105.N21.MMCL
 - Lecturer: Nguyen Huynh Quoc Viet
 - Student: Tran Nhut Linh
